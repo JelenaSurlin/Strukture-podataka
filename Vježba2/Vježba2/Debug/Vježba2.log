@@ -1,0 +1,4 @@
+﻿  zadatak2.c
+c:\users\ljubav\desktop\jelenasurlin\strukture-podataka\vježba2\vježba2\zadatak2.c(59): error C2440: 'return': cannot convert from 'Position' to 'Person'
+c:\users\ljubav\desktop\jelenasurlin\strukture-podataka\vježba2\vježba2\zadatak2.c(65): error C2440: '=': cannot convert from 'Person' to 'Position'
+c:\users\ljubav\desktop\jelenasurlin\strukture-podataka\vježba2\vježba2\zadatak2.c(87): error C2440: '=': cannot convert from 'Person' to 'Position'
