@@ -1,0 +1,12 @@
+﻿  zadatak5.c
+c:\users\ljubav\desktop\jelenasurlin\strukture-podataka\vježba 5\vježba 5\zadatak5.c(69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ljubav\desktop\jelenasurlin\strukture-podataka\vježba 5\vježba 5\zadatak5.c(70): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ljubav\desktop\jelenasurlin\strukture-podataka\vježba 5\vježba 5\zadatak5.c(71): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\users\ljubav\desktop\jelenasurlin\strukture-podataka\vježba 5\vježba 5\zadatak5.c(72): warning C4550: expression evaluates to a function which is missing an argument list
+c:\users\ljubav\desktop\jelenasurlin\strukture-podataka\vježba 5\vježba 5\zadatak5.c(108): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ljubav\desktop\jelenasurlin\strukture-podataka\vježba 5\vježba 5\zadatak5.c(124): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ljubav\desktop\jelenasurlin\strukture-podataka\vježba 5\vježba 5\zadatak5.c(128): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ljubav\desktop\jelenasurlin\strukture-podataka\vježba 5\vježba 5\zadatak5.c(132): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ljubav\desktop\jelenasurlin\strukture-podataka\vježba 5\vježba 5\zadatak5.c(136): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ljubav\desktop\jelenasurlin\strukture-podataka\vježba 5\vježba 5\zadatak5.c(167): warning C4716: 'Print': must return a value
+  Vježba 5.vcxproj -> C:\Users\LJUBAV\Desktop\JelenaSurlin\Strukture-podataka\Vježba 5\Debug\Vježba 5.exe
